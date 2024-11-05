@@ -1,4 +1,4 @@
-# dog_bread_identification
+# dog_breed_identification
 **Data Scientist Nanodegree Convolutional Neural Networks Project:** 
 
 Write an Algorithm for a Dog Identification App
